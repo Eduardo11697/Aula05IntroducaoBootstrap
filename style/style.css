@@ -1,0 +1,18 @@
+.button{
+        background-color: brown;
+        color: blue;
+        text-align: center;
+        font-size: 16px;
+}
+.button2{
+        background-color: black;
+        color: aqua;
+        text-align: center;
+        font-size: 18px;
+}
+.button3{
+        background-color: blue;
+        color: black;
+        text-align: center;
+        font-family: 18px;
+}
